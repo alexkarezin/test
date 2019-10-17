@@ -1,0 +1,49 @@
+.list-container {
+	display: inline-block;
+	background-color: #f3f3f3;
+	vertical-align: top;
+	padding: .5em;
+	width: 20em;
+	margin: 0pt 1em 1em 1em;
+	text-align: center; 
+	border-radius: .5em;
+}
+
+.list-itemcontainer {
+	min-height: 1em;
+}
+
+.list-currentuser {
+	background-color: #ddd;	
+}
+
+.item-container {
+	margin: 0em 0em .3em 0em;
+	padding: .5em;
+	background-color: white;
+	text-align: left;
+}
+
+.item-input {
+	min-width: 1em;
+}
+
+.item-input:focus {
+	outline: none;
+}
+
+.item-righttoolbar {
+	float: right;	
+}
+
+.item-status-open {	
+}
+
+.item-status-complete {
+	background-color: #efe;
+}
+
+.item-draghandle {
+	padding: 0em .3em;
+	cursor: grab;
+}
