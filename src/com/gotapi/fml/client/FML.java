@@ -44,10 +44,30 @@ public class FML implements EntryPoint {
 		Document.get().getBody().appendChild( Document.get().createBRElement() );
 		Document.get().getBody().appendChild( Document.get().createBRElement() );
 		Document.get().getBody().appendChild( Document.get().createBRElement() );
+
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+Window.alert("DO THING THREE TIMES - just a test");
 		Document.get().getBody().appendChild( Document.get().createBRElement() );
 		Document.get().getBody().appendChild( Document.get().createBRElement() );
 		Document.get().getBody().appendChild( Document.get().createBRElement() );
 		Document.get().getBody().appendChild( Document.get().createBRElement() );
+
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+Window.alert("DO THING THREE TIMES - just a test");
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+Window.alert("DO THING THREE TIMES - just a test");
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+
+		Document.get().getBody().appendChild( Document.get().createBRElement() );
+Window.alert("DO THING THREE TIMES - just a test");
 		
 		Document.get().getBody().appendChild( Document.get().createTextNode("What usertwo sees | ") );
 		final UiControl usertwoControl = new UiControl("usertwo");
