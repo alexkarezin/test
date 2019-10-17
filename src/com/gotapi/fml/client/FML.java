@@ -62,8 +62,10 @@ Window.alert("DO THING THREE TIMES - just a test");
 		initDragula();
 		initDragula();
 		initDragula();
+Window.alert("DO THING THREE TIMES - just a test");
 		initDragula();
 		initDragula();
+Window.alert("DO THING THREE TIMES - just a test");
 		initDragula();
 
 
