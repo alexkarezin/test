@@ -58,8 +58,15 @@ public class FML implements EntryPoint {
 			}
 		});
 		Document.get().getBody().appendChild( usertwoControl.getContainer() );
-		
+Window.alert("DO THING THREE TIMES - just a test");
 		initDragula();
+		initDragula();
+		initDragula();
+		initDragula();
+		initDragula();
+		initDragula();
+
+
 	}
 
 	private final native void initDragula() /*-{
